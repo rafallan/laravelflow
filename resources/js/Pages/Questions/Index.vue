@@ -31,7 +31,7 @@ defineProps({
                         </ul>
                     </div>
 
-                    <Pagination :meta="questions.meta" position="center" />
+                    <Pagination :meta="questions.meta" />
                 </div>
                 <div class="col-md-3">
                     <div class="d-grid">
